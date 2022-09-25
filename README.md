@@ -20,7 +20,7 @@ vendor/bin/composer require simplesamlphp/simplesamlphp-module-autotest:dev-mast
 ```
 
 where `dev-master` instructs Composer to install the `master` branch from the
-Git repository. See the [releases](releases)  available if you want to use
+
 a stable version of the module.
 
 [releases]: https://github.com/simplesamlphp/simplesamlphp-module-autotest/releases
